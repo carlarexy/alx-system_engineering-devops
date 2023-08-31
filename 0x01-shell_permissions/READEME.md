@@ -1,1 +1,1 @@
-my shell permission reademe
+my shell readme
